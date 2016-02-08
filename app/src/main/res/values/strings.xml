@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Espresso Application Sample</string>
+    <string name="application_insights_setup">Application Insights was setup.</string>
+    <string name="application_insights_not_setup">Application Insights was not setup..</string>
+</resources>
